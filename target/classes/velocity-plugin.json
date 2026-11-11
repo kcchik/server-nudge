@@ -1,0 +1,1 @@
+{"id":"server-nudge","name":"ServerNudge","version":"1.0.0","description":"Starts the correct EC2 instance when a player tries to join a sleeping backend server.","authors":[],"dependencies":[],"main":"com.kevin.servernudge.ServerNudgePlugin"}

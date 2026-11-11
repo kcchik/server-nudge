@@ -1,0 +1,7 @@
+# One block per Velocity server name (must match [servers] entries in velocity.toml)
+#
+# <name>.instanceId = the EC2 instance ID for that Minecraft server
+# <name>.region = the AWS region it's in (defaults to ca-central-1 if omitted)
+
+otis.instanceId=i-04165b09b9ba9b2e9
+otis.region=ca-central-1
